@@ -1,0 +1,21 @@
+# Build
+build/
+out/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+*.user
+
+# Compiled
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
